@@ -1,7 +1,7 @@
-# Manufac Analytics
+# Manufac Analytics Assignment
 
 ## Description
-This is a react application to show some data in tables.
+This is a react application to show some data in tables. 
 
 ## How to Run
 To get this application up and running on your local machine, follow these steps:
